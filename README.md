@@ -20,6 +20,7 @@ Amante de Startup Weekend 🚀
 
 </div>
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="150" height="150" alt="Github">
+<video src="https://youtu.be/UxqUIZ6kBTI?si=yU06osLsbNHgMMcq"></video>
 
 
 
