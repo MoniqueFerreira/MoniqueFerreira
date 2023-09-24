@@ -3,7 +3,7 @@
 Amante de Startup Weenked 🚀
 
 
-![Monique GitHub stats](https://github-readme-stats.vercel.app/api?username=MoniqueFerreira&show_icons=true&theme=dracula)
+![Monique GitHub stats](https://github-readme-stats.vercel.app/api?username=MoniqueFerreira&show_icons=true&theme=gruvbox)
 
 
 ### Tecnologias Estudadas 👨🏼‍💻
