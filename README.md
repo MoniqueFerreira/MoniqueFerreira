@@ -1,6 +1,6 @@
 ### Olá! Me chamo Monique Ferreira 💜
 🖳 Cursando Análise e desenvolvimento de sistemas (5ª Fase) <br>
-Amante de Startup Weenked 🚀
+Amante de Startup Weekend 🚀
 
 
 ![Monique GitHub stats](https://github-readme-stats.vercel.app/api?username=MoniqueFerreira&show_icons=true&theme=tokyonight)
