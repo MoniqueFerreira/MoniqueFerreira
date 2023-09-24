@@ -1,7 +1,7 @@
 ### Olá! Me chamo Monique Ferreira 💜
 🖳 Cursando Análise e desenvolvimento de sistemas (5ª Fase) <br>
 Amante de Startup Weekend 🚀
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="150" height="150" alt="Github">
+
 
 
 ![Monique GitHub stats](https://github-readme-stats.vercel.app/api?username=MoniqueFerreira&show_icons=true&theme=tokyonight)
@@ -19,7 +19,7 @@ Amante de Startup Weekend 🚀
 
 
 </div>
-
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="150" height="150" alt="Github">
 
 
 
