@@ -1,5 +1,5 @@
 ### Olá! Me chamo Monique Ferreira 💜
-🖳 Cursando Análise e desenvolvimento de sistemas (5ª FAse) <br>
+🖳 Cursando Análise e desenvolvimento de sistemas (5ª Fase) <br>
 Amante de Startup Weenked 🚀
 
 
