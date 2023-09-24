@@ -4,7 +4,7 @@ Amante de Startup Weekend 🚀
 
 
 ![Monique GitHub stats](https://github-readme-stats.vercel.app/api?username=MoniqueFerreira&show_icons=true&theme=tokyonight)
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="50" height="50" alt="Github">
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="250" height="250" alt="Github">
 
 
 ### Tecnologias Estudadas 👨🏼‍💻
