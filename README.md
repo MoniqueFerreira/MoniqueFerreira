@@ -4,6 +4,7 @@ Amante de Startup Weekend 🚀
 
 
 ![Monique GitHub stats](https://github-readme-stats.vercel.app/api?username=MoniqueFerreira&show_icons=true&theme=tokyonight)
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github">
 
 
 ### Tecnologias Estudadas 👨🏼‍💻
@@ -13,7 +14,7 @@ Amante de Startup Weekend 🚀
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github">
+
 
 
 </div>
